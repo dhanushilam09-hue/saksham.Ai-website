@@ -1,0 +1,5 @@
+# Next.js build + deps (not part of the website source)
+node_modules/
+.next/
+out/
+*.log
