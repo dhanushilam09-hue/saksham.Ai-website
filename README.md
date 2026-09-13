@@ -1,6 +1,3 @@
-Absolutely 👍 Since your project is Saksham AI — AI-Driven Scheme Matching for Marginalized Entrepreneurs, here's a professional SIH-ready README.md you can paste directly into GitHub.
-
-# 🇮🇳 Saksham AI
 
 ### AI-Driven Government Scheme Matching Platform for Marginalized Entrepreneurs
 
