@@ -221,7 +221,7 @@ Improve access to government support
 
 👥 Team
 
-Team: Saksham AI
+Team: code crushers01
 Hackathon: Smart India Hackathon 2026
 ---
 📌 Disclaimer
